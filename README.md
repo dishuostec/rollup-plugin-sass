@@ -4,7 +4,7 @@ rollup-plugin-sass [![CircleCI](https://img.shields.io/circleci/project/github/d
 ## Installation
 
 ```bash
-npm install rollup-plugin-sass -D
+npm install @dishuostec/rollup-plugin-sass -D
 ```
 
 ## Usage
